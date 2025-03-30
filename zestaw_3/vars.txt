@@ -1,0 +1,4 @@
+n = 2022
+x = 3.14159
+word = Python
+polish = książka
