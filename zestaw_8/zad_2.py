@@ -17,7 +17,7 @@ if __name__ == "__main__":
     # (c)
     v3 = v1[::-1]
 
-    # Print results (optional)
+    # Results
     print("an arbitrary one dimensional array v1:\n", v1)
     print("a new view v2 which consists of items with odd indices of v1:\n", v2)
     print("a new view v3 in backwards ordering from v1:\n", v3)
