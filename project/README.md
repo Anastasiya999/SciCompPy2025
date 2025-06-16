@@ -23,7 +23,7 @@ A simple interactive **command-line program** to manage a personal book collecti
 Install pandas via pip:
 
 ```bash
-pip install pandas
+pip install pandas networkx matplotlib numpy
 ```
 
 ---
